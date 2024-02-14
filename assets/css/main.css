@@ -203,6 +203,11 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+	h0 {
+		font-size: 5.0rem;
+		line-height: 1.2;
+	}
+
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
