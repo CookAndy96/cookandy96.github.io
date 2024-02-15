@@ -4310,10 +4310,10 @@ input, select, textarea {
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
 				object-fit: cover;
-				-moz-object-position: top;
-				-webkit-object-position: top;
-				-ms-object-position: top;
-				object-position: top;
+				-moz-object-position: bottom;
+				-webkit-object-position: bottom;
+				-ms-object-position: bottom;
+				object-position: bottom;
 				display: block;
 				position: absolute;
 				top: 0;
