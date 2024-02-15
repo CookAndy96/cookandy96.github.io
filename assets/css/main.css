@@ -3492,7 +3492,7 @@ input, select, textarea {
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			border-radius: 0;
-			width: 100%;
+			width: 50%;
 		}
 
 			.banner.style1 .image img {
